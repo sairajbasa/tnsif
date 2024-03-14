@@ -1,4 +1,4 @@
-//program to demonstrate variables in java
+package practice;
 
 public class VariablesDemo {
 	
